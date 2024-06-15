@@ -18,8 +18,7 @@
   <a href="https://linkedin.com/in/tarun-meena--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/channel/uce7f-owz1zypj3_pjphhkqg" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/uce7f-owz1zypj3_pjphhkqg?label=Subscribe&logo=YouTube&style=social" alt="YouTube" />
+  <a href="[https://www.youtube.com/channel/uce7f-owz1zypj3_pjphhkqg](https://www.youtube.com/channel/UCE7f-OWz1zyPJ3_PjPhHKqg)" target="_blank">
   </a>
 </p>
 
