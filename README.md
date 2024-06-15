@@ -5,15 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunmeena656" alt="tarunmeena656" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **QuickSoftware_Solution Startup**
-
-- 👨‍💻 All of my projects are available at [https://tarunmeenaji.netlify.app/](https://tarunmeenaji.netlify.app/)
-
 - 💬 Ask me about **Javascript , Express , MongoDb**
 
-- 📫 How to reach me **meenataru656@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
