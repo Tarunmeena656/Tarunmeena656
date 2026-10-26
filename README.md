@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Tarun Meena 👋</h1>
-<h3 align="center">Backend Developer | Node.js · Python · TypeScript · AWS · AI/LLM Integration</h3>
-<p align="center">📍 Bhopal, Madhya Pradesh, India &nbsp;|&nbsp; ✉️ meenatarun656@gmail.com</p>
+<h1 align="center">Hi, I'm Tarun Meena 👋</h1>
+<h3 align="center">Backend Engineer | AI/LLM Integrations | Node.js · TypeScript · Python · AWS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarunmeena656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,84 +8,91 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:meenatarun656@gmail.com">📧 Email</a> ·
+  <a href="https://linkedin.com/in/tarun-meena-3521b224b">💼 LinkedIn</a> ·
+  <a href="https://www.youtube.com/@quicktolearn7687">🎥 YouTube</a>
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 🔭 Backend Developer with **3.6+ years of experience** building REST APIs and scalable server-side systems using **Node.js, TypeScript, and Python**.
-- 🤖 Skilled in integrating **AI/LLM services (OpenAI, Anthropic)** into production content and automation pipelines, including **RAG systems, embeddings, and vector search**.
-- ⚡ Optimized **MongoDB at 300M+ record scale** and deployed **AWS serverless architecture** (Lambda, S3, EC2, API Gateway) — cutting infrastructure costs up to 20% and improving API/query performance up to 60%.
-- 🏗️ Delivered production systems across **AI/GenAI content platforms, e-commerce, healthcare, and media**.
-- 🎓 MCA graduate from **RGPV, Bhopal** (GPA: 8.93/10.0).
-- 💬 Ask me about **Node.js, Python, AWS, and LLM/RAG integration**.
-- 📺 I occasionally share what I learn on my [YouTube channel](https://www.youtube.com/@quicktolearn7687).
-- 📫 Let's connect — reach out via [LinkedIn](https://linkedin.com/in/tarun-meena-3521b224b).
+- 🔭 Backend developer with 3.6+ years of experience building scalable REST APIs and production-grade server-side systems using Node.js, TypeScript, and Python.
+- 🤖 Experienced in AI/LLM integrations with OpenAI, Anthropic, RAG, embeddings, vector search, and workflow automation for content and support systems.
+- ⚡ Built and optimized systems handling large-scale data and real-time workflows across e-commerce, healthcare, media, and startup operations.
+- ☁️ Worked with AWS services like Lambda, S3, EC2, and API Gateway to design cost-efficient and reliable backend infrastructure.
+- 🏗️ Delivered projects across AI operations, document intelligence, customer support automation, internal tools, and e-commerce backends.
+- 🎓 MCA graduate from RGPV, Bhopal with a strong foundation in software engineering and problem solving.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Core Focus
+
+- AI-powered customer support and internal automation
+- Retrieval-Augmented Generation (RAG) systems
+- LLM workflow orchestration and prompt-based pipelines
+- Full-stack backend architecture and API design
+- Database optimization and cloud deployment
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
 </p>
 
-**AI / LLM:** OpenAI API · Anthropic API · RAG · Embeddings & Vector Search · Prompt Engineering · AI Pipeline Development
-**Auth & Security:** JWT · RBAC · OAuth · Secure API Design
-**Integrations:** Stripe · Razorpay · Puppeteer · Cheerio · FCM
+**AI / LLM:** OpenAI API · Anthropic API · RAG · Embeddings · Vector Search · Prompt Engineering · Workflow Automation  
+**Backend:** REST APIs · JWT · RBAC · OAuth · Secure API Design · Caching  
+**Integrations:** Stripe · Razorpay · Puppeteer · Cheerio · FCM · WhatsApp/Document workflows
 
 ---
 
-### 💼 Professional Experience
+### 🌟 Featured Repositories
 
-**Backend Developer** — Rootlex Technology Pvt. Ltd. *(Jul 2024 – Present)*
-- Architected and maintained RESTful backend APIs for multiple client products (Lucidream, Hinch, Netros, TheSpice.AI, MaterialFlow) using Node.js, TypeScript, Python, and AWS.
-- Built AI-driven content and order-processing pipelines integrating OpenAI/Anthropic LLM APIs with backend workflow design for real-time, multi-platform systems.
-- Implemented Python-based automation and AI/LLM workflows for content processing, data enrichment, and structured extraction from unstructured input.
-
-**Node.js Developer** — Bigscal Technologies Pvt. Ltd. *(Jul 2023 – Jun 2024)*
-- Reduced AWS infrastructure costs by 20% by migrating scraping workloads to AWS Lambda serverless functions.
-- Cut MongoDB response time 40–60% across 300M+ records through strategic indexing and aggregation pipelines; built RBAC for S3 and MongoDB resources.
-- Integrated payment gateways (Stripe, Razorpay) and third-party APIs, improving transaction reliability.
-
-**Software Engineering Intern** — Bigscal Technologies Pvt. Ltd. *(Jan 2023 – Jun 2023)*
-- Improved REST API response time by 25% through server-side caching and MongoDB query optimization.
+- [AI-Support-Agent](https://github.com/Tarunmeena656/AI-Support-Agent) — AI customer support system for startups with RAG, ChromaDB, Claude, human escalation, JWT auth, and admin dashboard.
+- [ai-workforce](https://github.com/Tarunmeena656/ai-workforce) — Multi-tenant enterprise AI automation platform with tool calling, knowledge bases, event-driven workflows, and human-in-the-loop approvals.
+- [workshop-registration-app](https://github.com/Tarunmeena656/workshop-registration-app) — Full-stack workshop registration platform with Stripe payments, admin dashboard, and attendee management.
+- [portfolio](https://github.com/Tarunmeena656/portfolio) — Personal portfolio and projects showcase site.
+- [Alertra-Monitoring-API-product](https://github.com/Tarunmeena656/Alertra-Monitoring-API-product) — Monitoring and API product work.
 
 ---
 
-### 🌟 Featured Projects
+### 💼 Experience Snapshot
 
-- **Lucidream — AI Content Chief of Staff**: AI workflows transforming long-form podcast/video content into clips, captions, articles, and social-media content, with an approval-first publishing pipeline.
-- **MaterialFlow — AI Order & Inventory Platform**: AI-assisted order extraction from WhatsApp text, images, PDFs, and voice notes into structured catalogue/order data, with Hinglish and trade-slang matching.
-- **Enterprise Knowledge Assistant — RAG Platform**: Retrieval-Augmented Generation backend with document ingestion, chunking, embeddings, hybrid (semantic + BM25) retrieval, re-ranking, and grounded response guardrails.
-- **TheSpice.AI — AI-Powered Podcast Platform**: OpenAI/Anthropic integration for automated podcast content generation, summarization, and tagging.
-- **Hinch — E-Commerce Platform**: Backend APIs for a multi-brand platform supporting 10,000+ SKUs across 200+ brands.
-- **Netros — Hospital Management System**: Backend services for patient records, scheduling, billing, and RBAC across hospital roles.
+**Backend Developer** — Rootlex Technology Pvt. Ltd. *(Jul 2024 – Present)*  
+- Built backend APIs for multiple products using Node.js, TypeScript, Python, and AWS.
+- Integrated OpenAI/Anthropic workflows for content generation, document processing, and automation.
+- Designed AI-driven business systems with approval-first and human-in-the-loop logic.
+
+**Node.js Developer** — Bigscal Technologies Pvt. Ltd. *(Jul 2023 – Jun 2024)*  
+- Reduced AWS infrastructure costs by 20% through serverless optimization and workload migration.
+- Improved MongoDB query performance and scalability for 300M+ records.
+- Integrated Stripe, Razorpay, and third-party APIs for production systems.
+
+**Software Engineering Intern** — Bigscal Technologies Pvt. Ltd. *(Jan 2023 – Jun 2023)*  
+- Optimized REST API response times and improved backend efficiency via caching and query tuning.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunmeena656&show_icons=true&locale=en&theme=default" alt="Tarun's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunmeena656&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunmeena656&show_icons=true&locale=en&theme=default" alt="Tarun's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunmeena656&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -97,8 +103,9 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tarun-meena-3521b224b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-meena" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@quicktolearn7687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tarun-meena-3521b224b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/@quicktolearn7687" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" /></a>
+  <a href="mailto:meenatarun656@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and connect for collaboration.</i></p>
