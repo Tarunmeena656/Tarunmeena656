@@ -1,17 +1,22 @@
 <h1 align="center">Hi, I'm Tarun Meena 👋</h1>
-<h3 align="center">AI Engineer • Backend Developer • LLM & RAG Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunmeena656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tarunmeena656" alt="GitHub Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;LLM+%26+RAG+Specialist;AWS+%26+System+Design+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:meenatarun656@gmail.com"><img src="https://img.shields.io/badge/Email-meenatarun656%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tarun-meena-3521b224b"><img src="https://img.shields.io/badge/LinkedIn-Tarun%20Meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@quicktolearn7687"><img src="https://img.shields.io/badge/YouTube-Quick%20To%20Learn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://tarun-meena.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-tarun--meena.vercel.app-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:meenatarun656@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-meenatarun656%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tarun-meena-3521b224b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarun%20Meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@quicktolearn7687" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Quick%20To%20Learn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 <p align="center">
@@ -25,12 +30,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I build scalable backend systems and AI-powered products that turn raw data into real business value.
-- 🤖 I work closely with LLMs, copilots, RAG pipelines, embeddings, and workflow automation for enterprise use cases.
-- ⚡ My experience spans AI customer support, document intelligence, e-commerce systems, healthcare workflows, and startup automation.
-- ☁️ I design cost-efficient cloud solutions on AWS and build APIs that are fast, secure, and production-ready.
-- 🧠 I enjoy solving complex architecture problems with a mix of backend engineering, AI workflows, and product thinking.
-- 🎓 MCA graduate from RGPV, Bhopal with a strong foundation in software engineering and problem solving.
+- 🔭 I build reliable backend systems and AI products that turn raw data into business value.
+- 🤖 I work with LLMs, RAG pipelines, embeddings, vector search, prompt design, and AI workflow automation.
+- ⚡ My work spans AI customer support, document intelligence, workflow automation, healthcare systems, and e-commerce platforms.
+- ☁️ I design secure, scalable, cost-efficient systems on AWS with strong production focus.
+- 🧠 I enjoy solving complex engineering challenges at the intersection of backend architecture and AI.
+- 🎓 MCA graduate from RGPV, Bhopal, with a strong foundation in software engineering and problem solving.
 
 ---
 
@@ -60,10 +65,10 @@
 
 ### 🌟 Featured Projects
 
-- [AI-Support-Agent](https://github.com/Tarunmeena656/AI-Support-Agent) — AI customer support platform with RAG, ChromaDB, Claude, ticket escalation, admin dashboard, and human-in-the-loop support.
-- [ai-workforce](https://github.com/Tarunmeena656/ai-workforce) — Multi-tenant AI automation platform with tool calling, document intelligence, knowledge bases, and event-driven workflows.
-- [workshop-registration-app](https://github.com/Tarunmeena656/workshop-registration-app) — Full-stack workshop registration app with Stripe payments and admin management.
-- [portfolio](https://github.com/Tarunmeena656/portfolio) — Personal portfolio and project showcase site.
+- [AI-Support-Agent](https://github.com/Tarunmeena656/AI-Support-Agent) — AI customer support platform with RAG, ChromaDB, Claude, escalations, and admin dashboard.
+- [ai-workforce](https://github.com/Tarunmeena656/ai-workforce) — Multi-tenant AI automation platform with tool calling, workflow orchestration, and knowledge bases.
+- [workshop-registration-app](https://github.com/Tarunmeena656/workshop-registration-app) — Full-stack registration platform with Stripe payments and attendee management.
+- [portfolio](https://github.com/Tarunmeena656/portfolio) — Personal portfolio and project showcase.
 - [Alertra-Monitoring-API-product](https://github.com/Tarunmeena656/Alertra-Monitoring-API-product) — Monitoring and API product work.
 
 ---
@@ -71,17 +76,17 @@
 ### 💼 Experience Snapshot
 
 **Backend Developer** — Rootlex Technology Pvt. Ltd. *(Jul 2024 – Present)*  
-- Built backend services and AI-powered workflows for multiple client products using Node.js, TypeScript, Python, and AWS.
-- Integrated OpenAI and Anthropic APIs for content pipelines, automation, and support systems.
-- Designed approval-first and human-in-the-loop AI workflows for production environments.
+- Built backend platforms and AI-driven workflows using Node.js, TypeScript, Python, and AWS.
+- Integrated OpenAI and Anthropic APIs for content automation, support systems, and product workflows.
+- Designed human-in-the-loop and approval-style AI systems for production use.
 
 **Node.js Developer** — Bigscal Technologies Pvt. Ltd. *(Jul 2023 – Jun 2024)*  
-- Improved cloud efficiency by reducing AWS costs by 20% through workload optimization and serverless migration.
-- Enhanced MongoDB performance for 300M+ records using indexing, aggregation, and query tuning.
+- Reduced AWS cost by 20% through serverless optimization and workload migration.
+- Improved MongoDB performance for 300M+ records using indexing, aggregation, and query tuning.
 - Integrated payment and third-party APIs for reliable production systems.
 
 **Software Engineering Intern** — Bigscal Technologies Pvt. Ltd. *(Jan 2023 – Jun 2023)*  
-- Optimized REST API response speed and improved backend efficiency with caching and query tuning.
+- Optimized REST API latency and backend efficiency with caching and query tuning.
 
 ---
 
@@ -98,12 +103,4 @@
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/tarun-meena-3521b224b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@quicktolearn7687" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" /></a>
-  <a href="mailto:meenatarun656@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="30" /></a>
-</p>
-
-<p align="center"><i>Thanks for stopping by! 🚀 Let’s build AI products, backend systems, and smart automation together.</i></p>
+<p align="center"><i>Thanks for stopping by! 🚀 Let’s build AI products, smarter backend systems, and automation that actually moves the business forward.</i></p>
