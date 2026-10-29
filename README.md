@@ -99,7 +99,7 @@ Client and employer projects. Code is private; happy to walk through the design 
 
 ## Latest videos
 
-From my channel [QuickToLearn](https://www.youtube.com/@quicktolearn7687), refreshed every night.
+JavaScript tutorials and interview problems from my channel [QuickToLearn](https://www.youtube.com/@quicktolearn7687), refreshed every night.
 
 <!-- YOUTUBE-LIST:START -->
 - [Diwali 🎇 ki safai](https://www.youtube.com/shorts/dmiCbjvqWlA)
