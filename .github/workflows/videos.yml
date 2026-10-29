@@ -21,7 +21,8 @@ jobs:
         with:
           # the coding playlists; swap for channel_id=UCE7f-OWz1zyPJ3_PjPhHKqg to show every upload including shorts
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL_eNksFWsdqEty1KnVARdrdnFS58fKFqY,https://www.youtube.com/feeds/videos.xml?playlist_id=PL_eNksFWsdqEbrt4s8oAA5DUQUM5dSWZG"
-          title_max_length: 70
+          title_max_length: 80
+          item_exec: "post.title = post.title.split('#')[0].split('|')[0].replace(':', ': ').replace('  ', ' ').trim();"
           max_post_count: 3
           comment_tag_name: "YOUTUBE-LIST"
           commit_message: "Update latest videos"
