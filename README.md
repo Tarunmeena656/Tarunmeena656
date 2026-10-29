@@ -102,6 +102,9 @@ Client and employer projects. Code is private; happy to walk through the design 
 From my channel [QuickToLearn](https://www.youtube.com/@quicktolearn7687), refreshed every night.
 
 <!-- YOUTUBE-LIST:START -->
+- [Diwali 🎇 ki safai](https://www.youtube.com/shorts/dmiCbjvqWlA)
+- [meeting 🤝](https://www.youtube.com/shorts/BgIBk0-2LLE)
+- [Corporate reels ❤️](https://www.youtube.com/shorts/zUMtBKZ3nTI)
 <!-- YOUTUBE-LIST:END -->
 
 ## GitHub activity
