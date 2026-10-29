@@ -102,9 +102,9 @@ Client and employer projects. Code is private; happy to walk through the design 
 JavaScript tutorials and interview problems from my channel [QuickToLearn](https://www.youtube.com/@quicktolearn7687), refreshed every night.
 
 <!-- YOUTUBE-LIST:START -->
-- [Diwali 🎇 ki safai](https://www.youtube.com/shorts/dmiCbjvqWlA)
-- [meeting 🤝](https://www.youtube.com/shorts/BgIBk0-2LLE)
-- [Corporate reels ❤️](https://www.youtube.com/shorts/zUMtBKZ3nTI)
+- [Problem 7: Write a program to count the number of vowels in a string🔥#...](https://www.youtube.com/watch?v=deixO5Ij23M)
+- [Problem: 6 How to remove duplicate from an array 🔥| #javascript #techn...](https://www.youtube.com/watch?v=-SnZwgiYU38)
+- [Problem: 5 How to reverse array 🔥| #javascript #technical #technicalin...](https://www.youtube.com/watch?v=97lGngAHtG8)
 <!-- YOUTUBE-LIST:END -->
 
 ## GitHub activity
