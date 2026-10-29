@@ -2,13 +2,13 @@
 <title>Two people meet and talk</title>
 <line x1="40" y1="200" x2="960" y2="200" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
 <g fill="#3fc1b0" opacity="0.35"><circle cx="110" cy="192" r="12"/><circle cx="128" cy="195" r="8"/><circle cx="880" cy="193" r="11"/><circle cx="862" cy="196" r="7"/><circle cx="500" cy="195" r="7"/></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0250;0.9417;0.9917;1.0000" dur="12.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-120 200;370 200;370 200" keyTimes="0.0000;0.2500;1.0000" dur="12.0s" repeatCount="indefinite"/>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0088;0.9794;0.9971;1.0000" dur="34.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-120 200;370 200;370 200" keyTimes="0.0000;0.0882;1.0000" dur="34.0s" repeatCount="indefinite"/>
   <g >
-    <g><animateTransform attributeName="transform" type="rotate" values="25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="-10" y="-40" width="9" height="36" rx="4" fill="#1f3853"/><rect x="-13" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" values="-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="1" y="-40" width="9" height="36" rx="4" fill="#1f3853"/><rect x="-1" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="-10" y="-40" width="9" height="36" rx="4" fill="#1f3853"/><rect x="-13" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="1" y="-40" width="9" height="36" rx="4" fill="#1f3853"/><rect x="-1" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
     <rect x="-17" y="-82" width="34" height="48" rx="11" fill="#2c5f92"/>
-    <g><animateTransform attributeName="transform" type="rotate" values="-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;0 -12 -76;0 -12 -76" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="-24" y="-78" width="9" height="34" rx="4" fill="#2c5f92"/><circle cx="-19.5" cy="-44" r="5.5" fill="#f3c7a1"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" values="20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;0 12 -76;0 12 -76" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="15" y="-78" width="9" height="34" rx="4" fill="#2c5f92"/><circle cx="19.5" cy="-44" r="5.5" fill="#f3c7a1"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;0 -12 -76;0 -12 -76" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="-24" y="-78" width="9" height="34" rx="4" fill="#2c5f92"/><circle cx="-19.5" cy="-44" r="5.5" fill="#f3c7a1"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;0.7912;0.8015;0.8632;0.8735;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="15" y="-78" width="9" height="34" rx="4" fill="#2c5f92"/><circle cx="19.5" cy="-44" r="5.5" fill="#f3c7a1"/></g>
     <rect x="-5" y="-92" width="10" height="12" fill="#f3c7a1"/>
     <circle cx="0" cy="-104" r="18" fill="#f3c7a1"/>
     <path d="M-18 -104 a18 18 0 0 1 36 0 Z" fill="#3b2a20"/>
@@ -16,13 +16,13 @@
     <path d="M-6 -95 q6 6 12 0" stroke="#0f172a" stroke-width="2" fill="none" stroke-linecap="round"/>
   </g>
 </g>
-<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0250;0.9417;0.9917;1.0000" dur="12.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="1120 200;630 200;630 200" keyTimes="0.0000;0.2500;1.0000" dur="12.0s" repeatCount="indefinite"/>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0088;0.9794;0.9971;1.0000" dur="34.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="1120 200;630 200;630 200" keyTimes="0.0000;0.0882;1.0000" dur="34.0s" repeatCount="indefinite"/>
   <g transform="scale(-1,1)">
-    <g><animateTransform attributeName="transform" type="rotate" values="25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="-10" y="-40" width="9" height="36" rx="4" fill="#224263"/><rect x="-13" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" values="-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="1" y="-40" width="9" height="36" rx="4" fill="#224263"/><rect x="-1" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="-10" y="-40" width="9" height="36" rx="4" fill="#224263"/><rect x="-13" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;25 0 -40;-25 0 -40;0 0 -40;0 0 -40" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="1" y="-40" width="9" height="36" rx="4" fill="#224263"/><rect x="-1" y="-7" width="15" height="7" rx="3" fill="#0f172a"/></g>
     <rect x="-17" y="-82" width="34" height="48" rx="11" fill="#22a596"/>
-    <g><animateTransform attributeName="transform" type="rotate" values="-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;0 -12 -76;0 -12 -76" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="-24" y="-78" width="9" height="34" rx="4" fill="#22a596"/><circle cx="-19.5" cy="-44" r="5.5" fill="#8d5524"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" values="20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76" keyTimes="0.0000;0.0208;0.0417;0.0625;0.0833;0.1042;0.1250;0.1458;0.1667;0.1875;0.2083;0.2292;0.2500;0.2625;0.5000;0.5250;0.7167;0.7417;1.0000" dur="12.0s" repeatCount="indefinite"/><rect x="15" y="-78" width="9" height="34" rx="4" fill="#22a596"/><circle cx="19.5" cy="-44" r="5.5" fill="#8d5524"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;20 -12 -76;-20 -12 -76;0 -12 -76;0 -12 -76" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="-24" y="-78" width="9" height="34" rx="4" fill="#22a596"/><circle cx="-19.5" cy="-44" r="5.5" fill="#8d5524"/></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;-20 12 -76;20 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76;-75 12 -76;-75 12 -76;0 12 -76;0 12 -76" keyTimes="0.0000;0.0074;0.0147;0.0221;0.0294;0.0368;0.0441;0.0515;0.0588;0.0662;0.0735;0.0809;0.0882;0.0926;0.1838;0.1941;0.2559;0.2662;0.3574;0.3676;0.4294;0.4397;0.7044;0.7147;0.7765;0.7868;0.8779;0.8882;0.9500;0.9603;1.0000" dur="34.0s" repeatCount="indefinite"/><rect x="15" y="-78" width="9" height="34" rx="4" fill="#22a596"/><circle cx="19.5" cy="-44" r="5.5" fill="#8d5524"/></g>
     <rect x="-5" y="-92" width="10" height="12" fill="#8d5524"/>
     <circle cx="0" cy="-104" r="18" fill="#8d5524"/>
     <path d="M-18 -104 a18 18 0 0 1 36 0 Z" fill="#0f172a"/>
@@ -30,19 +30,54 @@
     <path d="M-6 -95 q6 6 12 0" stroke="#0f172a" stroke-width="2" fill="none" stroke-linecap="round"/>
   </g>
 </g>
-<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2833;0.2958;0.4833;0.4958;1.0000" dur="12.0s" repeatCount="indefinite"/>
-  <rect x="394" y="40" width="240" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
-  <path d="M434 84 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="514.0" y="68" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Shipped the job agent?</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1000;0.1044;0.1765;0.1809;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="394" y="30" width="276" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M434 74 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="532.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Hey! Shipped the job agent?</text>
 </g>
-<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5167;0.5292;0.7333;0.7458;1.0000" dur="12.0s" repeatCount="indefinite"/>
-  <rect x="226" y="40" width="380" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
-  <path d="M566 84 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="416.0" y="68" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Yes. Nothing goes out without approval.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1868;0.1912;0.2632;0.2676;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="227" y="30" width="379" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M566 74 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="416.5" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Yes. Nothing goes out without approval.</text>
 </g>
-<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7667;0.7792;0.9167;0.9292;1.0000" dur="12.0s" repeatCount="indefinite"/>
-  <rect x="394" y="40" width="170" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
-  <path d="M434 84 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="479.0" y="68" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Nice. Ship it.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2735;0.2779;0.3500;0.3544;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="394" y="30" width="250" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M434 74 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="519.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">How does it score a job?</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3603;0.3647;0.4368;0.4412;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="210" y="30" width="396" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M566 74 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="408.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Explainable match. Unknowns stay unknown.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4471;0.4515;0.5235;0.5279;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="394" y="30" width="224" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M434 74 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="506.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">And recruiter emails?</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5338;0.5382;0.6103;0.6147;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="279" y="30" width="327" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M566 74 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="442.5" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Only the ones actually published.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6206;0.6250;0.6971;0.7015;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="394" y="30" width="259" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M434 74 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="523.5" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">What does it cost to run?</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7074;0.7118;0.7838;0.7882;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="201" y="30" width="405" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M566 74 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="403.5" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Mock LLM by default, real model on demand.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7941;0.7985;0.8706;0.8750;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="394" y="30" width="164" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M434 74 l-8 14 l20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="476.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Nice. Ship it.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8809;0.8853;0.9574;0.9618;1.0000" dur="34.0s" repeatCount="indefinite"/>
+  <rect x="322" y="30" width="284" height="44" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M566 74 l8 14 l-20 -14 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="464.0" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0f172a">Already did. Check the repo.</text>
 </g>
 </svg>
